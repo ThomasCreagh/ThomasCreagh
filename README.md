@@ -1,5 +1,5 @@
 # 🌱 : Bio
-Hard working Second Year that has 6 years' experience with making projects in Python, 2 years experience with Java programming. I have always been passionate about solving problems from a young age. Programming gave me the tools to help me solve these problems. I am currently excited about the future technology of blockchain and zero knowledge proofs.
+Hard working Third Year that has 6 years' experience with making projects in Python, 2 years experience with Java programming. I have always been passionate about solving problems from a young age. Programming gave me the tools to help me solve these problems. I am currently excited about the future technology of blockchain and zero knowledge proofs.
 
 ###
 <div align="left">
