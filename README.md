@@ -1,5 +1,5 @@
 # 🌱 : Bio
-Hard working Third Year that has 6 years' experience with making projects in Python, 2 years experience with Java programming. I have always been passionate about solving problems from a young age. Programming gave me the tools to help me solve these problems. I am currently excited about the future technology of blockchain and zero knowledge proofs.
+I’m a third-year Computer Science student at Trinity College Dublin with hands-on experience in software development, data analytics, embedded systems and cyber security research. I enjoy working close to the hardware and building scalable applications in Python, Java, and Go. My interests include low-level programming such as Zig and cyber security research. I’m driven by solving complex technical problems and turning ideas into working, efficient systems.
 
 ###
 <div align="left">
