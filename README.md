@@ -1,5 +1,5 @@
 # 🌱 : Bio
-In my time at Pinterest I used in-house agents to create a webstorage governance review for pull requests to catch code drifting from what is declared in their webstorage catalog. This is to reduce potential fines up to 4% of Pinterest's worldwide turnover. Other tools I made to improve the efficiency of the security and privacy team were a lint rule to catch usage workarounds for webstorage wrappers and a github workflow that gives more information to the author when the webstorage catalog changes.
+I’m a fourth year Computer Science student at Trinity College Dublin with hands-on experience in software development, security & privacy, data analytics, embedded systems and cyber security research. I enjoy working close to the hardware and building scalable applications in Python, Java, and Go. My interests include low-level programming such as Zig and cyber security research. I’m driven by solving complex technical problems and turning ideas into working, efficient systems.
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
